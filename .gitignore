@@ -1,3 +1,7 @@
+build/
+bin/
+./word2vec/bin/
+zhwiki_skipgram.300d.vec
 # Prerequisites
 *.d
 
